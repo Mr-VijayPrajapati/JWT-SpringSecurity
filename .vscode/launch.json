@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MappingApplication<Mapping>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.mapping.Prajapati.MappingApplication",
+            "projectName": "Mapping",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
